@@ -74,7 +74,7 @@ const handleSubmit = async (e) => {
 
   //Fetch Data from server
 
-  const response = await fetch("https://codex-ai-8pov.onrender.com/", {
+  const response = await fetch("https://codex-8jxp.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
